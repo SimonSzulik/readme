@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=simonszulik&label=Profile%20views&color=0e75b6&style=flat" alt="simonszulik" /> </p>
 
-- 🌱 I’m currently learning **machine learning, LLM's and parkour 🏙️**
+- 🌱 I’m currently interested in **graph drawing, LLM stuff and parkour 🏙️**
 
 - 🤝 I’m looking for help with **anything related to AI stuff**
 
